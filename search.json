@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index 2.html",
-    "href": "index 2.html",
-    "title": "Yuliang Xu",
-    "section": "",
-    "text": "News: From July 1, 2026, I will be an Assistant Professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University, with a secondary appointment in the Department of Biostatistics.\n\n\n\nMy recent research focuses on the distributional evaluation of generative models for scientific data generation, especially synthetic microbiome data generation and evaluation.\nPreviously, I was a postdoctoral researcher advised by Prof. Li Ma in the Department of Statistics and Data Science Institute at the University of Chicago (July 2025–June 2026), and in the Department of Statistical Science at Duke University (July 2024–June 2025). I obtained my Ph.D. in Biostatistics from the University of Michigan, advised by Prof. Jian Kang.\nDuring my time at Michigan, I also collaborated with Prof. Florian Gunsilius. I received my B.S. in Mathematics and Applied Mathematics from South China University of Technology in 2017 and my M.S. in Statistics from the University of Waterloo in 2019.\n\n\n\n\n\nYuliang Xu at the Grand Canyon\n\n\nEmail: yxu296@jh.edu (work)\nyuliangx@umich.edu (permanent)"
-  },
-  {
-    "objectID": "index 2.html#about-me",
-    "href": "index 2.html#about-me",
-    "title": "Yuliang Xu",
-    "section": "",
-    "text": "News: From July 1, 2026, I will be an Assistant Professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University, with a secondary appointment in the Department of Biostatistics.\n\n\n\nMy recent research focuses on the distributional evaluation of generative models for scientific data generation, especially synthetic microbiome data generation and evaluation.\nPreviously, I was a postdoctoral researcher advised by Prof. Li Ma in the Department of Statistics and Data Science Institute at the University of Chicago (July 2025–June 2026), and in the Department of Statistical Science at Duke University (July 2024–June 2025). I obtained my Ph.D. in Biostatistics from the University of Michigan, advised by Prof. Jian Kang.\nDuring my time at Michigan, I also collaborated with Prof. Florian Gunsilius. I received my B.S. in Mathematics and Applied Mathematics from South China University of Technology in 2017 and my M.S. in Statistics from the University of Waterloo in 2019."
-  },
-  {
-    "objectID": "index 2.html#research-interests",
-    "href": "index 2.html#research-interests",
-    "title": "Yuliang Xu",
-    "section": "Research interests",
-    "text": "Research interests\n\n\nTheory and methods\n\nGenerative models\nNonparametric Bayesian statistics\nOptimal transport\nCausal inference\n\n\n\nApplications and data\n\nBrain imaging (volumetric fMRI)\nMicrobiome data (counts and relative abundances)\nDNA sequencing data"
-  },
-  {
-    "objectID": "index 2.html#education",
-    "href": "index 2.html#education",
-    "title": "Yuliang Xu",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in Biostatistics, University of Michigan, Ann Arbor, MI, 2024\nM.S. in Statistics, University of Waterloo, Waterloo, ON, 2019\nB.S. in Mathematics and Applied Mathematics, South China University of Technology, Guangzhou, China, 2017"
-  },
-  {
-    "objectID": "index 2.html#employment",
-    "href": "index 2.html#employment",
-    "title": "Yuliang Xu",
-    "section": "Employment",
-    "text": "Employment\n\nAssistant Professor, Department of Applied Mathematics and Statistics; secondary appointment in Biostatistics, Johns Hopkins University, starting July 2026\nPostdoctoral Researcher, Department of Statistics and Data Science Institute, University of Chicago, July 2025–June 2026\nPostdoctoral Researcher, Department of Statistical Science, Duke University, July 2024–June 2025"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -68,6 +33,41 @@
     "title": "Teaching",
     "section": "",
     "text": "AMS 720\n\n\nUpcoming\n\n\n\n\nA graduate introduction to measure-theoretic probability, random variables and integration, modes of convergence, and foundational limit theorems. A separate course website will be available before the course begins.\nCourse website coming soon."
+  },
+  {
+    "objectID": "index 2.html",
+    "href": "index 2.html",
+    "title": "Yuliang Xu",
+    "section": "",
+    "text": "News: From July 1, 2026, I will be an Assistant Professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University, with a secondary appointment in the Department of Biostatistics.\n\n\n\nMy recent research focuses on the distributional evaluation of generative models for scientific data generation, especially synthetic microbiome data generation and evaluation.\nPreviously, I was a postdoctoral researcher advised by Prof. Li Ma in the Department of Statistics and Data Science Institute at the University of Chicago (July 2025–June 2026), and in the Department of Statistical Science at Duke University (July 2024–June 2025). I obtained my Ph.D. in Biostatistics from the University of Michigan, advised by Prof. Jian Kang.\nDuring my time at Michigan, I also collaborated with Prof. Florian Gunsilius. I received my B.S. in Mathematics and Applied Mathematics from South China University of Technology in 2017 and my M.S. in Statistics from the University of Waterloo in 2019.\n\n\n\n\n\nYuliang Xu at the Grand Canyon\n\n\nEmail: yxu296@jh.edu (work)\nyuliangx@umich.edu (permanent)"
+  },
+  {
+    "objectID": "index 2.html#about-me",
+    "href": "index 2.html#about-me",
+    "title": "Yuliang Xu",
+    "section": "",
+    "text": "News: From July 1, 2026, I will be an Assistant Professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University, with a secondary appointment in the Department of Biostatistics.\n\n\n\nMy recent research focuses on the distributional evaluation of generative models for scientific data generation, especially synthetic microbiome data generation and evaluation.\nPreviously, I was a postdoctoral researcher advised by Prof. Li Ma in the Department of Statistics and Data Science Institute at the University of Chicago (July 2025–June 2026), and in the Department of Statistical Science at Duke University (July 2024–June 2025). I obtained my Ph.D. in Biostatistics from the University of Michigan, advised by Prof. Jian Kang.\nDuring my time at Michigan, I also collaborated with Prof. Florian Gunsilius. I received my B.S. in Mathematics and Applied Mathematics from South China University of Technology in 2017 and my M.S. in Statistics from the University of Waterloo in 2019."
+  },
+  {
+    "objectID": "index 2.html#research-interests",
+    "href": "index 2.html#research-interests",
+    "title": "Yuliang Xu",
+    "section": "Research interests",
+    "text": "Research interests\n\n\nTheory and methods\n\nGenerative models\nNonparametric Bayesian statistics\nOptimal transport\nCausal inference\n\n\n\nApplications and data\n\nBrain imaging (volumetric fMRI)\nMicrobiome data (counts and relative abundances)\nDNA sequencing data"
+  },
+  {
+    "objectID": "index 2.html#education",
+    "href": "index 2.html#education",
+    "title": "Yuliang Xu",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Biostatistics, University of Michigan, Ann Arbor, MI, 2024\nM.S. in Statistics, University of Waterloo, Waterloo, ON, 2019\nB.S. in Mathematics and Applied Mathematics, South China University of Technology, Guangzhou, China, 2017"
+  },
+  {
+    "objectID": "index 2.html#employment",
+    "href": "index 2.html#employment",
+    "title": "Yuliang Xu",
+    "section": "Employment",
+    "text": "Employment\n\nAssistant Professor, Department of Applied Mathematics and Statistics; secondary appointment in Biostatistics, Johns Hopkins University, starting July 2026\nPostdoctoral Researcher, Department of Statistics and Data Science Institute, University of Chicago, July 2025–June 2026\nPostdoctoral Researcher, Department of Statistical Science, Duke University, July 2024–June 2025"
   },
   {
     "objectID": "index.html",
