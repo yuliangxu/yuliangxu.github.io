@@ -20,5 +20,5 @@ Upcoming
 
 A graduate introduction to measure-theoretic probability, random variables and integration, modes of convergence, and foundational limit theorems.
 
-[Course website](https://yuliangxu.github.io/AMS720/){.btn .btn-primary .stretched-link aria-label="Open the AMS 720 course website"}
+[Course website](https://yuliangxu.github.io/AMS720/){.btn .btn-primary aria-label="Open the AMS 720 course website"}
 :::
