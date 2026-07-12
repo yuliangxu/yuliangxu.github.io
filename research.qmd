@@ -1,0 +1,218 @@
+---
+title: "Research"
+page-layout: full
+---
+
+## Methodology
+
+### Preprints
+
+::: {.publication}
+#### Distributional Evaluation of Generative Models via Relative Density Ratio
+
+::: {.pub-authors}
+**Yuliang Xu**, Yun Wei, and Li Ma
+:::
+
+::: {.pub-meta}
+2025 · Preprint · Under revision
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2510.25507) [Code](https://github.com/yuliangxu/RDR)
+:::
+:::
+
+::: {.publication}
+#### A tree-based kernel for densities and its applications in clustering DNase-seq profiles
+
+::: {.pub-authors}
+**Yuliang Xu**, Kaixuan Luo, and Li Ma
+:::
+
+::: {.pub-meta}
+2025 · Preprint · Under revision
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2509.15480) [Code](https://github.com/yuliangxu/CorTree)
+:::
+
+::: {.pub-activity}
+**Talks & posters** · Poster, Bayesian Nonparametrics (BNP 14), June 2025 · Invited talk, ICSA Applied Statistics Symposium, June 2025 · Invited talk, Michigan Biostatistics Brown Bag Seminar, 2025
+:::
+:::
+
+::: {.publication}
+#### Two-sample comparison through additive tree models for density ratios
+
+::: {.pub-authors}
+Naoki Awaya, **Yuliang Xu**, and Li Ma
+:::
+
+::: {.pub-meta}
+2025 · Preprint · Under review
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2508.03059) [Code](https://github.com/MaStatLab/BATTS)
+:::
+:::
+
+::: {.publication}
+#### Matching for causal effects via multimarginal unbalanced optimal transport
+
+::: {.pub-authors}
+Florian Gunsilius and **Yuliang Xu**
+:::
+
+::: {.pub-meta}
+2021 · Preprint · Under review
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2112.04398) [Code](https://github.com/yuliangxu/UOT)
+:::
+:::
+
+### Publications
+
+::: {.publication}
+#### Bayesian Structured Mediation Analysis With Unobserved Confounders
+
+::: {.pub-authors}
+**Yuliang Xu**, Shu Yang, and Jian Kang
+:::
+
+::: {.pub-meta}
+2026 · *Biometrics*, 82(2), ujag110
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2407.04142) [Publisher](https://doi.org/10.1093/biomtc/ujag110) [Code](https://github.com/yuliangxu/BASMU)
+:::
+
+::: {.pub-activity}
+**Talks & posters** · Invited talk, Statistical Methods in Imaging (SMI), May 2025 · Poster, Duke StatsSci Research Alumni Symposium, November 2024
+:::
+:::
+
+::: {.publication}
+#### Scalable Bayesian Image-on-Scalar Regression for Population-Scale Neuroimaging Data Analysis
+
+::: {.pub-authors}
+**Yuliang Xu**, Timothy D. Johnson, Thomas E. Nichols, and Jian Kang
+:::
+
+::: {.pub-meta}
+2026 · *Journal of the American Statistical Association*, Applications and Case Studies
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2404.13204) [Publisher](https://doi.org/10.1080/01621459.2026.2635067) [Code](https://github.com/yuliangxu/SBIOS)
+:::
+
+::: {.pub-activity}
+**Talks & posters** · Topic-contributed talk, ENAR 2023
+:::
+:::
+
+::: {.publication}
+#### Bayesian Image Mediation Analysis
+
+::: {.pub-authors}
+**Yuliang Xu**, Timothy D. Johnson, Mary Heitzeg, and Jian Kang
+:::
+
+::: {.pub-meta}
+2026 · *Journal of the American Statistical Association*, Theory and Methods
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2310.16284) [Publisher](https://doi.org/10.1080/01621459.2026.2613465) [Code](https://github.com/yuliangxu/BIMA)
+:::
+
+::: {.pub-activity}
+**Talks & posters** · Topic-contributed talk, JSM 2022 · SBSS Student Paper Award, 2023
+:::
+:::
+
+::: {.publication}
+#### Bayesian Image Regression with Soft-thresholded Conditional Autoregressive Prior
+
+::: {.pub-authors}
+**Yuliang Xu** and Jian Kang
+:::
+
+::: {.pub-meta}
+2025 · *International Conference on Learning Representations (ICLR)*
+:::
+
+::: {.pub-links}
+[OpenReview](https://openreview.net/forum?id=rnL3OafDdw) [Publisher](https://proceedings.iclr.cc/paper_files/paper/2025/hash/f418594e90047a10f4c158f70d6701cc-Abstract-Conference.html) [Code](https://github.com/yuliangxu/STCAR)
+:::
+
+::: {.pub-activity}
+**Talks & posters** · Invited online talk, Statistics in Imaging Virtual Working Group, December 2025 · Poster, ICLR, April 2025 · Invited talk, SMI 2026
+:::
+:::
+
+## Applications
+
+::: {.publication .publication-compact}
+#### Association of neighborhood socioeconomic status with outcomes in patients surviving stroke
+
+Eric L. Stulberg, Erica Twardzik, Sehee Kim, Chia-Wei Hsu, **Yuliang Xu**, Philippa Clarke, Lewis B. Morgenstern, and Lynda D. Lisabeth
+
+::: {.pub-meta}
+2021 · *Neurology*, 96(21), e2599–e2610
+:::
+:::
+
+::: {.publication .publication-compact}
+#### Overnight rostral fluid shifts exacerbate obstructive sleep apnea after stroke
+
+Devin L. Brown, Azadeh Yadollahi, Kevin He, **Yuliang Xu**, Bryan Piper, Erin Case, Ronald D. Chervin, and Lynda D. Lisabeth
+
+::: {.pub-meta}
+2021 · *Stroke*, 52(10), 3176–3183
+:::
+:::
+
+::: {.publication .publication-compact}
+#### mgee2: An R package for marginal analysis of longitudinal ordinal data with misclassified responses and covariates
+
+**Yuliang Xu**, Shuo Shuo Liu, and Yi Grace Y.
+
+::: {.pub-meta}
+2021 · *The R Journal*, 13(2), 419
+:::
+
+::: {.pub-links}
+[Publisher](https://journal.r-project.org/archive/2021/RJ-2021-093/RJ-2021-093.pdf)
+:::
+:::
+
+::: {.publication .publication-compact}
+#### Factors Contributing to Sex Differences in Health-Related Quality of Life After Ischemic Stroke: BASIC Project
+
+Hoang T. Phan, Mathew J. Reeves, Seana Gall, Lewis B. Morgenstern, **Yuliang Xu**, and Lynda D. Lisabeth
+
+::: {.pub-meta}
+2022 · *Journal of the American Heart Association*, 11(17), e026123
+:::
+:::
+
+::: {.publication .publication-compact}
+#### The impact of sociality and affective valence on brain activation: A meta-analysis
+
+Shir Atzil, Ajay B. Satpute, Jiahe Zhang, Michael H. Parrish, Holly Shablack, Jennifer K. MacCormack, Joseph Leshin, Srishti Goel, Jeffrey A. Brooks, Jian Kang, **Yuliang Xu**, Matan Cohen, and Kristen A. Lindquist
+
+::: {.pub-meta}
+2023 · *NeuroImage*, 268, 119879
+:::
+
+::: {.pub-links}
+[Publisher](https://www.sciencedirect.com/science/article/pii/S1053811923000289)
+:::
+:::
