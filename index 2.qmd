@@ -1,0 +1,63 @@
+---
+title: "Yuliang Xu"
+page-layout: full
+---
+
+::: {.profile-grid}
+::: {.profile-main}
+## About me
+
+
+
+::: {.callout-note appearance="simple" icon=false}
+**News:** From July 1, 2026, I will be an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, with a secondary appointment in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics).
+:::
+
+My recent research focuses on the distributional evaluation of generative models for scientific data generation, especially synthetic microbiome data generation and evaluation.
+
+Previously, I was a postdoctoral researcher advised by Prof. [Li Ma](https://lm186.github.io/) in the [Department of Statistics](https://stat.uchicago.edu/) and [Data Science Institute](https://datascience.uchicago.edu/) at the University of Chicago (July 2025–June 2026), and in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University (July 2024–June 2025). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from the University of Michigan, advised by Prof. [Jian Kang](https://public.websites.umich.edu/~jiankang/).
+
+During my time at Michigan, I also collaborated with Prof. [Florian Gunsilius](https://www.floriangunsilius.com/). I received my B.S. in Mathematics and Applied Mathematics from [South China University of Technology](https://en.wikipedia.org/wiki/South_China_University_of_Technology) in 2017 and my M.S. in Statistics from the [University of Waterloo](https://uwaterloo.ca/) in 2019.
+:::
+
+::: {.profile-side}
+![Yuliang Xu at the Grand Canyon](images/GrandCanyon.jpg){.homepage-photo}
+
+Email: [yxu296@jh.edu](mailto:yxu296@jh.edu) (work)  
+[yuliangx@umich.edu](mailto:yuliangx@umich.edu) (permanent)
+:::
+:::
+
+## Research interests
+
+::: {.interest-grid}
+::: {.interest-group}
+### Theory and methods
+
+- Generative models
+- Nonparametric Bayesian statistics
+- Optimal transport
+- Causal inference
+:::
+
+::: {.interest-group}
+### Applications and data
+
+- Brain imaging (volumetric fMRI)
+- Microbiome data (counts and relative abundances)
+- DNA sequencing data
+:::
+:::
+
+
+## Education
+
+- **Ph.D. in Biostatistics**, University of Michigan, Ann Arbor, MI, 2024
+- **M.S. in Statistics**, University of Waterloo, Waterloo, ON, 2019
+- **B.S. in Mathematics and Applied Mathematics**, South China University of Technology, Guangzhou, China, 2017
+
+## Employment
+
+- **Assistant Professor**, Department of Applied Mathematics and Statistics; secondary appointment in Biostatistics, Johns Hopkins University, starting July 2026
+- **Postdoctoral Researcher**, Department of Statistics and Data Science Institute, University of Chicago, July 2025–June 2026
+- **Postdoctoral Researcher**, Department of Statistical Science, Duke University, July 2024–June 2025
