@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yuliangxu.github.io/index.html</loc>
-    <lastmod>2026-07-12T03:19:25.228Z</lastmod>
+    <loc>https://yuliangxu.github.io/index 2.html</loc>
+    <lastmod>2026-07-12T02:32:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yuliangxu.github.io/research.html</loc>
+    <lastmod>2026-07-12T03:19:25.230Z</lastmod>
   </url>
   <url>
     <loc>https://yuliangxu.github.io/teaching.html</loc>
     <lastmod>2026-07-12T03:19:25.235Z</lastmod>
   </url>
   <url>
-    <loc>https://yuliangxu.github.io/research.html</loc>
-    <lastmod>2026-07-12T03:19:25.230Z</lastmod>
+    <loc>https://yuliangxu.github.io/index.html</loc>
+    <lastmod>2026-07-12T03:19:25.228Z</lastmod>
   </url>
 </urlset>
