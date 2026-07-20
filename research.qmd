@@ -21,6 +21,10 @@ page-layout: full
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2510.25507) [Code](https://github.com/yuliangxu/RDR)
 :::
+
+::: {.pub-activity}
+**Talks & posters** · **Stellar Abstract Award** Poster, STAI-X 2026 · Invited talk, PCIC 2026 · Invited talk, ICSA 2026
+:::
 :::
 
 ::: {.publication}
@@ -133,7 +137,7 @@ Florian Gunsilius and **Yuliang Xu**
 :::
 
 ::: {.pub-activity}
-**Talks & posters** · Topic-contributed talk, JSM 2022 · SBSS Student Paper Award, 2023
+**Talks & posters** · Topic-contributed talk, JSM 2022 · **ASA SBSS Student Paper Award**, 2023
 :::
 :::
 
