@@ -19,7 +19,7 @@ page-layout: full
 :::
 
 ::: {.pub-links}
-[arXiv](https://arxiv.org/abs/2510.25507) [Code](https://github.com/yuliangxu/RDR) [Package] (https://yuliangxu.github.io/rdr-eval)
+[arXiv](https://arxiv.org/abs/2510.25507) [Code](https://github.com/yuliangxu/RDR) [Package](https://yuliangxu.github.io/rdr-eval)
 :::
 
 ::: {.pub-activity}
