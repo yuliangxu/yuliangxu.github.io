@@ -27,25 +27,7 @@ page-layout: full
 :::
 :::
 
-::: {.publication}
-#### A tree-based kernel for densities and its applications in clustering DNase-seq profiles
 
-::: {.pub-authors}
-**Yuliang Xu**, Kaixuan Luo, and Li Ma
-:::
-
-::: {.pub-meta}
-2025 · Preprint · Under revision
-:::
-
-::: {.pub-links}
-[arXiv](https://arxiv.org/abs/2509.15480) [Code](https://github.com/yuliangxu/CorTree)
-:::
-
-::: {.pub-activity}
-**Talks & posters** · Poster, Bayesian Nonparametrics (BNP 14), June 2025 · Invited talk, ICSA Applied Statistics Symposium, June 2025 · Invited talk, Michigan Biostatistics Brown Bag Seminar, 2025
-:::
-:::
 
 ::: {.publication}
 #### Two-sample comparison through additive tree models for density ratios
@@ -80,6 +62,26 @@ Florian Gunsilius and **Yuliang Xu**
 :::
 
 ### Publications
+
+::: {.publication}
+#### A tree-based kernel for densities and its applications in clustering DNase-seq profiles
+
+::: {.pub-authors}
+**Yuliang Xu**, Kaixuan Luo, and Li Ma
+:::
+
+::: {.pub-meta}
+2026 · Biometrics · Just accepted
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2509.15480) [Code](https://github.com/yuliangxu/CorTree)
+:::
+
+::: {.pub-activity}
+**Talks & posters** · Poster, Bayesian Nonparametrics (BNP 14), June 2025 · Invited talk, ICSA Applied Statistics Symposium, June 2025 · Invited talk, Michigan Biostatistics Brown Bag Seminar, 2025
+:::
+:::
 
 ::: {.publication}
 #### Bayesian Structured Mediation Analysis With Unobserved Confounders
