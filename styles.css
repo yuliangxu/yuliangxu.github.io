@@ -1,11 +1,13 @@
 :root {
   --ink: #18252e;
   --muted: #5e6a72;
-  --paper: #fbfaf7;
+  --paper: #f7f3ea;
   --surface: #ffffff;
   --navy: #163a52;
   --blue: #26749a;
   --blue-soft: #e9f1f5;
+  --coral: #c9634d;
+  --gold: #d8a447;
   --rule: #dfe5e7;
   --shadow: 0 14px 36px rgba(25, 48, 62, 0.08);
 }
@@ -16,7 +18,10 @@ html {
 
 body {
   color: var(--ink);
-  background: var(--paper);
+  background:
+    radial-gradient(circle at 8% 10%, rgba(216, 164, 71, 0.11), transparent 26rem),
+    radial-gradient(circle at 93% 36%, rgba(38, 116, 154, 0.08), transparent 30rem),
+    var(--paper);
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   line-height: 1.58;
@@ -28,13 +33,13 @@ h3,
 h4,
 .navbar-brand {
   color: var(--navy);
-  font-family: inherit;
+  font-family: Georgia, "Times New Roman", serif;
   letter-spacing: -0.025em;
 }
 
 h1 {
   font-size: clamp(2.15rem, 4vw, 3rem);
-  font-weight: 720;
+  font-weight: 600;
   line-height: 1.12;
 }
 
@@ -46,6 +51,18 @@ h2 {
   font-size: 1.48rem;
   font-weight: 700;
   line-height: 1.25;
+}
+
+main > section > h2::after,
+.profile-main > h2::after,
+main > h2::after {
+  display: block;
+  width: 2.4rem;
+  height: 3px;
+  margin-top: 0.55rem;
+  border-radius: 3px;
+  background: linear-gradient(90deg, var(--coral), var(--gold));
+  content: "";
 }
 
 h3 {
@@ -71,7 +88,7 @@ a:hover {
 .navbar {
   min-height: 4.35rem;
   border-bottom: 1px solid rgba(22, 58, 82, 0.12);
-  background: rgba(251, 250, 247, 0.95) !important;
+  background: rgba(247, 243, 234, 0.9) !important;
   backdrop-filter: blur(12px);
 }
 
@@ -119,8 +136,8 @@ a:hover {
 }
 
 body:has(.publication) #quarto-content main {
-  width: min(100% - 3rem, 1240px);
-  max-width: 1240px;
+  width: min(100% - 3rem, 1040px);
+  max-width: 1040px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -137,10 +154,24 @@ body:has(.publication) #quarto-content main {
 }
 
 .profile-grid {
+  position: relative;
   display: grid;
   grid-template-columns: minmax(0, 2fr) minmax(17rem, 0.88fr);
   gap: clamp(2rem, 5vw, 4.5rem);
   align-items: start;
+}
+
+.profile-grid::before {
+  position: absolute;
+  z-index: -1;
+  top: -4rem;
+  right: -5rem;
+  width: 15rem;
+  height: 15rem;
+  border: 1px solid rgba(201, 99, 77, 0.2);
+  border-radius: 48% 52% 63% 37% / 44% 38% 62% 56%;
+  content: "";
+  transform: rotate(16deg);
 }
 
 .profile-main > h2:first-child,
@@ -157,8 +188,10 @@ body:has(.publication) #quarto-content main {
   width: 100%;
   height: auto;
   margin: 0 0 1.5rem;
-  border-radius: 0.85rem;
+  border: 7px solid white;
+  border-radius: 46% 54% 48% 52% / 36% 42% 58% 64%;
   box-shadow: var(--shadow);
+  transform: rotate(1.25deg);
 }
 
 .profile-side h2 {
@@ -193,8 +226,10 @@ body:has(.publication) #quarto-content main {
 .interest-group {
   min-width: 0;
   padding: 1rem 1.15rem;
-  border-left: 3px solid var(--blue);
-  background: rgba(233, 241, 245, 0.5);
+  border: 1px solid rgba(22, 58, 82, 0.1);
+  border-radius: 0.3rem 1.4rem 0.3rem 1.4rem;
+  background: rgba(255, 255, 255, 0.55);
+  box-shadow: 5px 5px 0 rgba(38, 116, 154, 0.09);
 }
 
 .interest-group h3 {
@@ -271,18 +306,87 @@ main ol > li::marker {
 
 .publication {
   position: relative;
-  margin: 0.8rem 0;
-  padding: 1.05rem 1.35rem 1rem;
-  border: 1px solid var(--rule);
-  border-radius: 0.7rem;
-  background: var(--surface);
+  margin: 0.55rem 0;
+  padding: 0.82rem 1rem 0.78rem 1.2rem;
+  border: 0;
+  border-left: 3px solid rgba(38, 116, 154, 0.42);
+  border-radius: 0 0.6rem 0.6rem 0;
+  background: rgba(255, 255, 255, 0.68);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.research-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: stretch;
+  margin: -0.75rem 0 1.5rem;
+  padding: 0.45rem;
+  border: 1px solid rgba(22, 58, 82, 0.11);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.62);
+  width: fit-content;
+}
+
+.research-toc p {
+  display: contents;
+}
+
+.research-toc-parent {
+  display: flex;
+  align-items: center;
+  padding: 0.36rem 0.78rem;
+  border-radius: 999px;
+  color: var(--navy);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.research-toc-parent:hover {
+  background: var(--blue-soft);
+  color: var(--blue);
+}
+
+.research-toc-child {
+  padding: 0.28rem 0.5rem;
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.research-toc-child::before {
+  margin-right: 0.32rem;
+  color: var(--gold);
+  content: "↳";
+}
+
+.research-toc-child:hover {
+  background: var(--blue-soft);
+  color: var(--blue);
+}
+
+.research-toc-second {
+  margin-left: 0.15rem;
+  padding-left: 1rem;
+  border-left: 1px solid var(--rule);
+  border-radius: 0;
+}
+
+.publication:hover {
+  border-left-color: var(--coral);
+  box-shadow: 0 8px 24px rgba(25, 48, 62, 0.07);
+  transform: translateX(2px);
 }
 
 .publication h4 {
-  margin: 0 0 0.3rem;
+  margin: 0 0 0.18rem;
   color: var(--navy);
   font-family: inherit;
-  font-size: 1.14rem;
+  font-size: 1.08rem;
   font-weight: 700;
   line-height: 1.35;
 }
@@ -290,7 +394,8 @@ main ol > li::marker {
 .pub-authors,
 .publication-compact > p {
   color: var(--ink);
-  font-size: 0.94rem;
+  font-size: 0.89rem;
+  line-height: 1.42;
 }
 
 .pub-authors p,
@@ -301,7 +406,7 @@ main ol > li::marker {
 }
 
 .pub-meta {
-  margin-top: 0.35rem;
+  margin-top: 0.2rem;
   color: var(--muted);
   font-size: 0.84rem;
   font-weight: 650;
@@ -312,7 +417,7 @@ main ol > li::marker {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
-  margin-top: 0.6rem;
+  margin-top: 0.42rem;
 }
 
 .pub-links p {
@@ -335,16 +440,16 @@ main ol > li::marker {
 }
 
 .pub-activity {
-  margin-top: 0.65rem;
-  padding-top: 0.6rem;
+  margin-top: 0.45rem;
+  padding-top: 0.4rem;
   border-top: 1px solid var(--rule);
   color: var(--muted);
   font-size: 0.84rem;
 }
 
 .publication-compact {
-  padding-top: 1.15rem;
-  padding-bottom: 1.1rem;
+  padding-top: 0.78rem;
+  padding-bottom: 0.72rem;
 }
 
 .course-hero {
@@ -505,6 +610,20 @@ thead {
 }
 
 @media (max-width: 520px) {
+  .research-toc {
+    width: 100%;
+    flex-direction: column;
+    border-radius: 0.75rem;
+  }
+
+  .research-toc-second {
+    width: 100%;
+    margin-left: 0;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--rule);
+    border-left: 0;
+  }
+
   .interest-grid {
     grid-template-columns: 1fr;
     gap: 0.8rem;
