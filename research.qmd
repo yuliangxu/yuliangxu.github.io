@@ -3,6 +3,10 @@ title: "Research"
 page-layout: full
 ---
 
+::: {.research-toc aria-label="Research page sections"}
+[Methodology](#methodology){.research-toc-parent} [Preprints](#preprints){.research-toc-child} [Publications](#publications){.research-toc-child} [Applications](#applications){.research-toc-parent .research-toc-second}
+:::
+
 ## Methodology
 
 ### Preprints
