@@ -30,7 +30,31 @@ Email: [yxu296@jh.edu](mailto:yxu296@jh.edu) (work)
 :::
 :::
 
-## Research interests
+## Scientific validity for synthetic data
+
+::: {.research-focus}
+::: {.research-focus-question}
+::: {.research-focus-label}
+Core research question
+:::
+
+**When can synthetic data generated from scientific datasets be trusted to support the same scientific conclusions as the real data?**
+:::
+
+I develop statistical tools for assessing whether generative models preserve the features of scientific data that matter for downstream analysis and inference. A central goal is to understand when synthetic data can be safely used to answer scientific questions---and how much real data is needed before such guarantees become possible.
+
+More broadly, I am interested in defining what it means for a generative model to be *scientifically valid*, rather than merely statistically or perceptually realistic.
+
+::: {.research-focus-invitation}
+::: {.research-focus-invitation-copy}
+**Have a scientific dataset or workflow where synthetic data could make a difference?** I welcome conversations with applied researchers about evaluating generative models in real scientific settings.
+:::
+
+[Discuss a collaboration](mailto:yxu296@jh.edu?subject=Potential%20research%20collaboration){.research-focus-link}
+:::
+:::
+
+## Research areas
 
 ::: {.interest-grid}
 ::: {.interest-group}
