@@ -9,15 +9,17 @@ page-layout: full
 
 
 
-::: {.callout-note appearance="simple" icon=false}
-**News:** From July 1, 2026, I will be an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, with a secondary appointment in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics).
-:::
+I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, with a secondary appointment in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics).
 
 My recent research focuses on the distributional evaluation of generative models for scientific data generation, especially synthetic microbiome data generation and evaluation.
 
 Previously, I was a postdoctoral researcher advised by Prof. [Li Ma](https://lm186.github.io/) in the [Department of Statistics](https://stat.uchicago.edu/) and [Data Science Institute](https://datascience.uchicago.edu/) at the University of Chicago (July 2025–June 2026), and in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University (July 2024–June 2025). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from the University of Michigan, advised by Prof. [Jian Kang](https://public.websites.umich.edu/~jiankang/).
 
 During my time at Michigan, I also collaborated with Prof. [Florian Gunsilius](https://www.floriangunsilius.com/). I received my B.S. in Mathematics and Applied Mathematics from [South China University of Technology](https://en.wikipedia.org/wiki/South_China_University_of_Technology) in 2017 and my M.S. in Statistics from the [University of Waterloo](https://uwaterloo.ca/) in 2019.
+
+::: {.callout-note appearance="simple" icon=false}
+**Prospective Ph.D. students:** I am looking for Ph.D. students to work with. Interested candidates are welcome to email me with their CV.
+:::
 :::
 
 ::: {.profile-side}
